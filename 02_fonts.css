@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {
+	/*font-family: Verdana, Geneva, sans-serif; */
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	line-height: 1.6em;
+	font-weight: normal;
+	/*text-decoration: line-through;*/
+	/*font-weight: italic;*/
+	/*letter-spacing: 2px;*/
+	/*word-spacing: 20px;*/
+/*font: normal 20px 'Roboto', sans-serf;*/
+
+}
+/*.css p {
+	font-size: 20px;
+	font-family: Verdana;
+	font-weight: 10px;
+}
