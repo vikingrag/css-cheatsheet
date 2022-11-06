@@ -1,16 +1,5 @@
-# **CSS_curse**
+# CSS Cheatsheet
 
-## In this course, we cover the basic concepts of working with **CSS**
-## Here are the most commonly used tags and functions for working with **CSS**
-___
+Cheatsheet for CSS Course
 
-## If there is a need to remember one or another **CSS** functionality, you can select a file and view the code directly in the repository
-
-
-## Project start
-
-### Let's follow the link [vikingrag.github.io/CSS_curses/](vikingrag.github.io/CSS_curses/)
-
-### Download the project from your computer using the command that you need to register in the terminal:
-git clone https://github.com/vikingrag/CSS_curses.git
-### after downloading, open the **index.html**, **.CSS** file in your browser
+[![HTML&CSS первый шаг для начинающих в IT](https://user-images.githubusercontent.com/100153634/200188348-4fe5cedc-8ca0-41d4-bad7-816ecad65693.png)](https://result.school/products/html-css?utm_source=youtube&utm_medium=vladilen&utm_campaign=stream_05_11_22 "HTML&CSS первый шаг для начинающих в IT")
